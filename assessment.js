@@ -17,13 +17,13 @@ var iLove = 'ILoveCode';
 // #4 Change my shirt color to pink using dot notation
 var myShirt = {
 	type: 'polo',
-	color: 'red'
+	color: 'pink'
 };
 
 // Change my shirt type to spandex using square bracket notation
 var myOtherShirt = {
-	type: 'polo',
-	color: 'red'
+	type: 'spandex',
+	color: 'pink'
 };
 
 // #5 Create an object that tracks a count of animals in a zoo.  Call it 'zoo'
